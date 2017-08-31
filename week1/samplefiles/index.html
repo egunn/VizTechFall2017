@@ -1,0 +1,41 @@
+<!-- This is a comment. Text typed in here does not get read by the browser, so this is how you leave notes for yourself. -->
+
+<!DOCTYPE html>  <!-- Define the document as an HTML page-->
+<html>           <!-- Begin the HTML part of the code using an HTML tag. The < and > signs indicate a tag beginning and end.-->
+<link>           <!-- header contains content important to the page itself, but not its content -->
+<title>HTML and CSS basics</title>  <!-- choose what to display in the browser tab -->
+
+<link rel="stylesheet" type="text/css" href="style.css"></link>    <!-- link to a CSS document (note that this file must be in the same folder, or you'll have to include a file path as well)-->
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">  <!-- link to a Google font-->
+
+</head>          <!-- close the head tag (most tags must be both opened and closed, with the tag contents in between) -->
+
+<body>   <!-- beginning of the actual webpage-->
+
+<!-- Create a new div, and give it a class and an id for CSS styling (note that class and id definitions go inside the opening tag)-->
+<div class="titleDiv colorDiv" id="div1">    <!-- notice that you can give something more than one class by putting a space between them -->
+    <p>  <!-- put a paragraph inside the div -->
+        Hello World!   <!-- text that shows up in the paragraph -->
+    </p>
+</div>
+
+<div class="imageDiv" id="div2">  <!-- another div, with a different class and a different id -->
+    <img src="cat.jpg">           <!-- images are an example of tags that do not have to be closed. src defines the file to load-->
+</div>
+
+<div class="colorDiv" id="div3">
+    <p>This is where we're going to put the main text of our paragraph</p>
+</div>
+
+<div class="colorDiv" id="div4">
+    <a href="http://www.ericagunn.com">my website</a>   <!-- the "a" tag is a link. href stands for hypertext reference, and defines the destination. Link text shows up in between the open and close tags -->
+</div>
+
+<div class="colorDiv" id="div5">
+</div>
+
+</body>   <!-- end of the body tag -->
+
+<script src="./index.js"></script>  <!-- identifies a javascript file to include in the website. Order matters! -->
+
+</html>

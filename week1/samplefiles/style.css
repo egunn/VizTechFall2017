@@ -1,0 +1,47 @@
+/* This is a comment in CSS*/
+
+/* set the styles for everything with the HTML tag div*/
+div{
+    border-style:solid;  /* give the div a solid border that's 1 pixel wide and purple*/
+    border-width:1px;
+    border-color: purple;
+}
+
+/* set the style for all divs with the class colorDiv*/
+.colorDiv{     /* notice the period in front - this indicates that we're talking about a class of objects! */
+    background:greenyellow;
+}
+
+/* set the style for the imageDiv class*/
+.imageDiv{
+    background:darkgray;
+}
+
+/*when you remove the comments below, the image resizes to fill the entire width of the div that it's in*/
+img{
+    /*width: 100%;*/
+}
+
+/* change the size and color of the text in the titleDiv*/
+.titleDiv {
+    font-family: 'Roboto', sans-serif;  /*use the font we imported from Google fonts*/
+    font-size: 36pt;
+    color: darkgreen;
+}
+
+#div3 {  /* note the # sign - that indicates that we're using an id, rather than a class */
+    width: 50%;
+    float:left;  /* position the div as far to the left as possible, and immediately under/next to the element before it*/
+}
+
+#div4 {
+    float:left; /* try switching to float: right and see what happens*/
+    width:49%;  /* note that this is less than 50% because the border takes up 2 px of width - try turning off the border and then increasing to 50% */
+}
+
+#div5{
+    background:darkslategray;
+    width:50%;
+    height:30px;
+    clear:both;  /* clear:both turns off the float property. Try commenting it out and see what happens*/
+}
