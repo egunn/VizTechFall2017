@@ -1,0 +1,126 @@
+/* latin */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sans'), local('OpenSans'), url('./fonts/OpenSans-Regular.ttf') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+body{
+    font-family: "Open Sans", Arial, sans-serif;
+    padding-left: 100px;
+    font-size:11pt;
+    color: dimgray;
+    /*display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap:wrap;*/
+    /*position: fixed;*/
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    /*overflow: auto;*/
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+strong {
+    color: dimgrey;
+    text-transform: uppercase;
+    font-family: "Open Sans", Arial, sans-serif;
+    margin-top: 1.5em;
+    margin-bottom: 0em;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    word-spacing: 4px;
+    text-align:left;
+
+}
+
+a{
+    color:darkgray;
+    line-height: 1.75em;
+}
+
+p {
+    margin-top: 6px;
+    line-height: 1.6em;
+}
+
+.contentdiv{
+    padding-top: 6px;
+    width: 700px;
+}
+
+h2{
+    margin:0px;
+    padding-top:5px;
+    word-spacing: 3px;
+}
+
+h3{
+    font-weight:normal;
+}
+
+h4{
+    margin-top:0px;
+    padding-top: 20px;
+    padding-bottom: 3px;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+.no-bullets{
+    list-style-type: none;
+    padding-left:0;
+}
+
+li{
+    padding-bottom: 5px;
+}
+
+.image {
+    width: 400px;
+    padding-top:12px;
+}
+
+canvas {
+    border: 1px solid hsl(0,10%,90%);
+    width:auto;
+    height:100%;
+}
+
+.buttondiv{
+    display: flex;
+    flex-direction: row;
+}
+
+button {
+    background-color: white; /* Green */
+    border: 1px solid hsl(0,10%,90%);
+    color: darkgray;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    border-radius:8px;
+    margin:3px;
+}
+
+/*following example at http://jsfiddle.net/sncb91t8/*/
+.links{
+    color:darkgray;
+    list-style: none;
+    margin:0px;
+    padding-top:10px;
+    padding-bottom:5px;
+}
+

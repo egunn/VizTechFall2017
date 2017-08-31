@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<!--<object type="image/svg+xml" data="untitled-1.svg"></object>-->
+
+</body>
+
+<script src="../vendor/d3.v4.2.6.min.js"></script>
+
+<script>
+    var svg = d3.select("body").append("svg");
+
+    d3.xml("untitled-1.xml","image/svg+xml", function(xml) {
+
+        var anno = svg.selectAll("lines")
+            .data("1")
+            .enter()
+            .append("g")
+            .attr("class","anno")
+            .attr("transform", function(d,i) {
+                return "scale(0.5)";
+            })
+
+        var importedNode = document.importNode(xml.documentElement, true);
+
+        d3.select(".anno")[0][0].appendChild(importedNode.cloneNode(true));
+
+    });
+
+    console.log(d3.selectAll('#lines').node());
+
+</script>
+</html>
