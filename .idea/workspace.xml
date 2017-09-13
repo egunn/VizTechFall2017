@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a241ccc3-83d4-40bb-88cb-6770b5075dde" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/09-12-17.html" afterPath="$PROJECT_DIR$/docs/09-12-17.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -77,8 +76,8 @@
       <file leaf-file-name="09-12-17.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/09-12-17.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="64" column="429" lean-forward="false" selection-start-line="64" selection-start-column="429" selection-end-line="64" selection-end-column="429" />
+            <state relative-caret-position="230">
+              <caret line="86" column="36" lean-forward="false" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -285,12 +284,12 @@
       <workItem from="1504449591825" duration="10000" />
       <workItem from="1504449648488" duration="13400000" />
       <workItem from="1505254866114" duration="1038000" />
-      <workItem from="1505270643424" duration="653000" />
+      <workItem from="1505270643424" duration="1358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56258000" />
+    <option name="totallyTimeSpent" value="56963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,7 +301,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23214285" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -534,8 +533,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/09-12-17.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="64" column="429" lean-forward="false" selection-start-line="64" selection-start-column="429" selection-end-line="64" selection-end-column="429" />
+        <state relative-caret-position="230">
+          <caret line="86" column="36" lean-forward="false" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
