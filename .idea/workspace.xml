@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a241ccc3-83d4-40bb-88cb-6770b5075dde" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/09-26-17.html" afterPath="$PROJECT_DIR$/docs/09-26-17.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/10-03-17.html" afterPath="$PROJECT_DIR$/docs/10-03-17.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/10-10-17.html" afterPath="$PROJECT_DIR$/docs/10-10-17.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,7 +47,7 @@
       <file leaf-file-name="09-19-17.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/09-19-17.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1124">
+            <state relative-caret-position="1938">
               <caret line="114" column="12" lean-forward="false" selection-start-line="91" selection-start-column="4" selection-end-line="114" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -61,8 +60,8 @@
       <file leaf-file-name="09-26-17.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/09-26-17.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="92" />
+            <state relative-caret-position="1020">
+              <caret line="60" column="12" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="92" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -71,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10-10-17.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="10-10-17.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/10-10-17.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="265">
+              <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -93,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10-03-17.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="10-03-17.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/10-03-17.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -141,8 +140,8 @@
         <option value="$PROJECT_DIR$/docs/index.html" />
         <option value="$PROJECT_DIR$/docs/09-19-17.html" />
         <option value="$PROJECT_DIR$/docs/09-26-17.html" />
-        <option value="$PROJECT_DIR$/docs/10-03-17.html" />
         <option value="$PROJECT_DIR$/docs/10-10-17.html" />
+        <option value="$PROJECT_DIR$/docs/10-03-17.html" />
       </list>
     </option>
   </component>
@@ -308,12 +307,13 @@
       <workItem from="1505674483397" duration="1849000" />
       <workItem from="1505853588726" duration="639000" />
       <workItem from="1506250970704" duration="7245000" />
-      <workItem from="1506382244098" duration="12855000" />
+      <workItem from="1506382244098" duration="12993000" />
+      <workItem from="1507086885034" duration="115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80786000" />
+    <option name="totallyTimeSpent" value="81039000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -667,7 +667,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/09-19-17.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1124">
+        <state relative-caret-position="1938">
           <caret line="114" column="12" lean-forward="false" selection-start-line="91" selection-start-column="4" selection-end-line="114" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -678,8 +678,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/09-26-17.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="92" />
+        <state relative-caret-position="1020">
+          <caret line="60" column="12" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="92" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -687,18 +687,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/10-03-17.html">
+    <entry file="file://$PROJECT_DIR$/docs/10-10-17.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        <state relative-caret-position="265">
+          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/10-10-17.html">
+    <entry file="file://$PROJECT_DIR$/docs/10-03-17.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        <state relative-caret-position="240">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
